@@ -1356,6 +1356,19 @@ body {
 
     .workflow-step {
         gap: 1rem;
+        margin-bottom: 2rem;
+    }
+
+    .workflow-step:not(:last-child)::after {
+        left: 22px;
+        top: 45px;
+        bottom: -48px;
+    }
+
+    .step-number {
+        width: 45px;
+        height: 45px;
+        font-size: 1.1rem;
     }
 
     .step-content {
