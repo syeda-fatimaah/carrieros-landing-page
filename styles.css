@@ -1234,15 +1234,14 @@ body {
         display: none;
     }
 
+    .nav-content .btn-primary {
+        display: none;
+    }
+
     .nav-content {
         flex-wrap: wrap;
         gap: 1rem;
-        justify-content: space-between;
-    }
-
-    .nav-content .btn-primary {
-        font-size: 0.85rem;
-        padding: 0.75rem 1.5rem;
+        justify-content: center;
     }
 
     .logo {
