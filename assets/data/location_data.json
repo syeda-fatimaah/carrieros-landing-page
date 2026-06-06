@@ -1,0 +1,175 @@
+[
+  {
+    "country": "United States",
+    "states": [
+      { "state": "Alabama", "cities": ["Birmingham", "Montgomery", "Huntsville", "Mobile", "Tuscaloosa"] },
+      { "state": "Arizona", "cities": ["Phoenix", "Tucson", "Mesa", "Chandler", "Scottsdale", "Glendale", "Tempe"] },
+      { "state": "Arkansas", "cities": ["Little Rock", "Fort Smith", "Fayetteville", "Springdale", "Jonesboro"] },
+      { "state": "California", "cities": ["Los Angeles", "San Francisco", "San Diego", "Sacramento", "Fresno", "Long Beach", "Oakland", "Bakersfield", "Anaheim", "Riverside"] },
+      { "state": "Colorado", "cities": ["Denver", "Colorado Springs", "Aurora", "Fort Collins", "Lakewood", "Thornton", "Pueblo"] },
+      { "state": "Florida", "cities": ["Miami", "Orlando", "Tampa", "Jacksonville", "Fort Lauderdale", "Tallahassee", "St. Petersburg", "Hialeah", "Cape Coral"] },
+      { "state": "Georgia", "cities": ["Atlanta", "Augusta", "Columbus", "Macon", "Savannah", "Athens", "Sandy Springs"] },
+      { "state": "Illinois", "cities": ["Chicago", "Aurora", "Rockford", "Joliet", "Naperville", "Springfield", "Peoria", "Elgin"] },
+      { "state": "Indiana", "cities": ["Indianapolis", "Fort Wayne", "Evansville", "South Bend", "Carmel", "Fishers"] },
+      { "state": "Iowa", "cities": ["Des Moines", "Cedar Rapids", "Davenport", "Sioux City", "Iowa City"] },
+      { "state": "Kansas", "cities": ["Wichita", "Overland Park", "Kansas City", "Topeka", "Olathe"] },
+      { "state": "Kentucky", "cities": ["Louisville", "Lexington", "Bowling Green", "Owensboro", "Covington"] },
+      { "state": "Louisiana", "cities": ["New Orleans", "Baton Rouge", "Shreveport", "Lafayette", "Lake Charles"] },
+      { "state": "Michigan", "cities": ["Detroit", "Grand Rapids", "Warren", "Sterling Heights", "Lansing", "Ann Arbor", "Flint"] },
+      { "state": "Minnesota", "cities": ["Minneapolis", "Saint Paul", "Rochester", "Duluth", "Bloomington"] },
+      { "state": "Mississippi", "cities": ["Jackson", "Gulfport", "Southaven", "Hattiesburg", "Biloxi"] },
+      { "state": "Missouri", "cities": ["Kansas City", "St. Louis", "Springfield", "Columbia", "Independence"] },
+      { "state": "Nebraska", "cities": ["Omaha", "Lincoln", "Bellevue", "Grand Island", "Kearney"] },
+      { "state": "Nevada", "cities": ["Las Vegas", "Henderson", "Reno", "North Las Vegas", "Sparks"] },
+      { "state": "New Jersey", "cities": ["Newark", "Jersey City", "Paterson", "Elizabeth", "Trenton", "Camden"] },
+      { "state": "New Mexico", "cities": ["Albuquerque", "Las Cruces", "Rio Rancho", "Santa Fe", "Roswell"] },
+      { "state": "New York", "cities": ["New York City", "Buffalo", "Rochester", "Yonkers", "Syracuse", "Albany", "New Rochelle"] },
+      { "state": "North Carolina", "cities": ["Charlotte", "Raleigh", "Greensboro", "Durham", "Winston-Salem", "Fayetteville"] },
+      { "state": "Ohio", "cities": ["Columbus", "Cleveland", "Cincinnati", "Toledo", "Akron", "Dayton"] },
+      { "state": "Oklahoma", "cities": ["Oklahoma City", "Tulsa", "Norman", "Broken Arrow", "Lawton", "Edmond"] },
+      { "state": "Oregon", "cities": ["Portland", "Salem", "Eugene", "Gresham", "Hillsboro", "Beaverton"] },
+      { "state": "Pennsylvania", "cities": ["Philadelphia", "Pittsburgh", "Allentown", "Erie", "Reading", "Scranton"] },
+      { "state": "Tennessee", "cities": ["Nashville", "Memphis", "Knoxville", "Chattanooga", "Clarksville", "Murfreesboro"] },
+      { "state": "Texas", "cities": ["Houston", "Dallas", "San Antonio", "Austin", "Fort Worth", "El Paso", "Arlington", "Corpus Christi", "Laredo", "Lubbock", "Garland", "Irving"] },
+      { "state": "Utah", "cities": ["Salt Lake City", "West Valley City", "Provo", "West Jordan", "Orem", "Sandy"] },
+      { "state": "Virginia", "cities": ["Virginia Beach", "Norfolk", "Chesapeake", "Richmond", "Newport News", "Alexandria"] },
+      { "state": "Washington", "cities": ["Seattle", "Spokane", "Tacoma", "Vancouver", "Bellevue", "Kirkland"] },
+      { "state": "Wisconsin", "cities": ["Milwaukee", "Madison", "Green Bay", "Kenosha", "Racine", "Appleton"] }
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "states": [
+      { "state": "Punjab", "cities": ["Lahore", "Faisalabad", "Rawalpindi", "Gujranwala", "Multan", "Gujrat", "Sialkot", "Sargodha", "Bahawalpur", "Sheikhupura", "Jhang", "Rahim Yar Khan"] },
+      { "state": "Sindh", "cities": ["Karachi", "Hyderabad", "Sukkur", "Larkana", "Nawabshah", "Mirpur Khas", "Thatta", "Jacobabad"] },
+      { "state": "Khyber Pakhtunkhwa", "cities": ["Peshawar", "Mardan", "Mingora", "Kohat", "Abbottabad", "Mansehra", "Dera Ismail Khan", "Swabi"] },
+      { "state": "Balochistan", "cities": ["Quetta", "Turbat", "Khuzdar", "Hub", "Chaman", "Gwadar", "Zhob", "Sibi"] },
+      { "state": "Islamabad Capital Territory", "cities": ["Islamabad"] },
+      { "state": "Azad Kashmir", "cities": ["Muzaffarabad", "Mirpur", "Rawalakot", "Kotli", "Bhimber"] },
+      { "state": "Gilgit-Baltistan", "cities": ["Gilgit", "Skardu", "Chilas", "Hunza"] }
+    ]
+  },
+  {
+    "country": "Canada",
+    "states": [
+      { "state": "Ontario", "cities": ["Toronto", "Ottawa", "Mississauga", "Brampton", "Hamilton", "London", "Markham", "Vaughan", "Kitchener", "Windsor"] },
+      { "state": "Quebec", "cities": ["Montreal", "Quebec City", "Laval", "Gatineau", "Longueuil", "Sherbrooke", "Saguenay", "Levis"] },
+      { "state": "British Columbia", "cities": ["Vancouver", "Surrey", "Burnaby", "Richmond", "Kelowna", "Abbotsford", "Coquitlam", "Victoria"] },
+      { "state": "Alberta", "cities": ["Calgary", "Edmonton", "Red Deer", "Lethbridge", "St. Albert", "Medicine Hat", "Grande Prairie"] },
+      { "state": "Manitoba", "cities": ["Winnipeg", "Brandon", "Steinbach", "Thompson"] },
+      { "state": "Saskatchewan", "cities": ["Saskatoon", "Regina", "Prince Albert", "Moose Jaw"] },
+      { "state": "Nova Scotia", "cities": ["Halifax", "Dartmouth", "Sydney", "Truro"] },
+      { "state": "New Brunswick", "cities": ["Moncton", "Saint John", "Fredericton", "Dieppe"] }
+    ]
+  },
+  {
+    "country": "Mexico",
+    "states": [
+      { "state": "Mexico City", "cities": ["Mexico City"] },
+      { "state": "Jalisco", "cities": ["Guadalajara", "Zapopan", "Tlaquepaque", "Tonala", "Puerto Vallarta"] },
+      { "state": "Nuevo Leon", "cities": ["Monterrey", "San Nicolas", "Guadalupe", "Apodaca", "San Pedro Garza Garcia"] },
+      { "state": "Baja California", "cities": ["Tijuana", "Mexicali", "Ensenada", "Tecate", "Rosarito"] },
+      { "state": "Veracruz", "cities": ["Veracruz", "Xalapa", "Coatzacoalcos", "Poza Rica"] },
+      { "state": "Puebla", "cities": ["Puebla", "Tehuacan", "San Martin Texmelucan"] },
+      { "state": "Chihuahua", "cities": ["Ciudad Juarez", "Chihuahua", "Delicias", "Cuauhtemoc"] },
+      { "state": "Sonora", "cities": ["Hermosillo", "Ciudad Obregon", "Nogales", "San Luis Rio Colorado"] }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "states": [
+      { "state": "England", "cities": ["London", "Birmingham", "Manchester", "Leeds", "Liverpool", "Sheffield", "Bristol", "Newcastle", "Nottingham", "Leicester"] },
+      { "state": "Scotland", "cities": ["Glasgow", "Edinburgh", "Aberdeen", "Dundee", "Inverness"] },
+      { "state": "Wales", "cities": ["Cardiff", "Swansea", "Newport", "Wrexham"] },
+      { "state": "Northern Ireland", "cities": ["Belfast", "Derry", "Lisburn", "Newry"] }
+    ]
+  },
+  {
+    "country": "India",
+    "states": [
+      { "state": "Maharashtra", "cities": ["Mumbai", "Pune", "Nagpur", "Nashik", "Aurangabad", "Solapur"] },
+      { "state": "Delhi", "cities": ["New Delhi", "Delhi"] },
+      { "state": "Karnataka", "cities": ["Bangalore", "Mysore", "Hubli", "Mangalore", "Belgaum"] },
+      { "state": "Tamil Nadu", "cities": ["Chennai", "Coimbatore", "Madurai", "Tiruchirappalli", "Salem"] },
+      { "state": "Gujarat", "cities": ["Ahmedabad", "Surat", "Vadodara", "Rajkot", "Bhavnagar"] },
+      { "state": "Rajasthan", "cities": ["Jaipur", "Jodhpur", "Udaipur", "Kota", "Bikaner"] },
+      { "state": "Uttar Pradesh", "cities": ["Lucknow", "Kanpur", "Agra", "Varanasi", "Allahabad", "Meerut"] },
+      { "state": "West Bengal", "cities": ["Kolkata", "Howrah", "Durgapur", "Asansol", "Siliguri"] },
+      { "state": "Telangana", "cities": ["Hyderabad", "Warangal", "Nizamabad", "Karimnagar"] },
+      { "state": "Punjab", "cities": ["Ludhiana", "Amritsar", "Jalandhar", "Patiala", "Bathinda"] }
+    ]
+  },
+  {
+    "country": "Australia",
+    "states": [
+      { "state": "New South Wales", "cities": ["Sydney", "Newcastle", "Wollongong", "Central Coast", "Maitland"] },
+      { "state": "Victoria", "cities": ["Melbourne", "Geelong", "Ballarat", "Bendigo", "Shepparton"] },
+      { "state": "Queensland", "cities": ["Brisbane", "Gold Coast", "Sunshine Coast", "Townsville", "Cairns"] },
+      { "state": "Western Australia", "cities": ["Perth", "Fremantle", "Bunbury", "Geraldton", "Kalgoorlie"] },
+      { "state": "South Australia", "cities": ["Adelaide", "Mount Gambier", "Whyalla", "Murray Bridge"] },
+      { "state": "Tasmania", "cities": ["Hobart", "Launceston", "Devonport", "Burnie"] }
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "states": [
+      { "state": "Dubai", "cities": ["Dubai", "Deira", "Bur Dubai", "Jumeirah", "Al Quoz"] },
+      { "state": "Abu Dhabi", "cities": ["Abu Dhabi", "Al Ain", "Khalifa City", "Mussafah"] },
+      { "state": "Sharjah", "cities": ["Sharjah", "Khor Fakkan", "Kalba"] },
+      { "state": "Ajman", "cities": ["Ajman"] },
+      { "state": "Ras Al Khaimah", "cities": ["Ras Al Khaimah", "Al Jazirah Al Hamra"] },
+      { "state": "Fujairah", "cities": ["Fujairah", "Dibba Al Fujairah"] }
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "states": [
+      { "state": "Riyadh", "cities": ["Riyadh", "Al Kharj", "Dawadmi"] },
+      { "state": "Makkah", "cities": ["Jeddah", "Mecca", "Taif"] },
+      { "state": "Eastern Province", "cities": ["Dammam", "Al Khobar", "Dhahran", "Jubail", "Qatif"] },
+      { "state": "Madinah", "cities": ["Medina", "Yanbu", "Al Ula"] },
+      { "state": "Asir", "cities": ["Abha", "Khamis Mushait", "Bisha"] }
+    ]
+  },
+  {
+    "country": "Germany",
+    "states": [
+      { "state": "Bavaria", "cities": ["Munich", "Nuremberg", "Augsburg", "Regensburg", "Ingolstadt"] },
+      { "state": "North Rhine-Westphalia", "cities": ["Cologne", "Dusseldorf", "Dortmund", "Essen", "Duisburg", "Bochum"] },
+      { "state": "Baden-Wurttemberg", "cities": ["Stuttgart", "Mannheim", "Karlsruhe", "Freiburg", "Heidelberg"] },
+      { "state": "Berlin", "cities": ["Berlin"] },
+      { "state": "Hamburg", "cities": ["Hamburg"] },
+      { "state": "Hesse", "cities": ["Frankfurt", "Wiesbaden", "Kassel", "Darmstadt"] }
+    ]
+  },
+  {
+    "country": "France",
+    "states": [
+      { "state": "Ile-de-France", "cities": ["Paris", "Boulogne-Billancourt", "Saint-Denis", "Argenteuil"] },
+      { "state": "Auvergne-Rhone-Alpes", "cities": ["Lyon", "Grenoble", "Saint-Etienne", "Clermont-Ferrand"] },
+      { "state": "Provence-Alpes-Cote d'Azur", "cities": ["Marseille", "Nice", "Toulon", "Aix-en-Provence"] },
+      { "state": "Occitanie", "cities": ["Toulouse", "Montpellier", "Nimes", "Perpignan"] },
+      { "state": "Nouvelle-Aquitaine", "cities": ["Bordeaux", "Limoges", "Pau", "Bayonne"] }
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "states": [
+      { "state": "Lagos", "cities": ["Lagos", "Ikeja", "Badagry", "Epe", "Ikorodu"] },
+      { "state": "Abuja FCT", "cities": ["Abuja", "Gwagwalada", "Kuje"] },
+      { "state": "Kano", "cities": ["Kano", "Wudil", "Gaya"] },
+      { "state": "Rivers", "cities": ["Port Harcourt", "Obio-Akpor", "Okrika"] },
+      { "state": "Oyo", "cities": ["Ibadan", "Ogbomosho", "Oyo"] },
+      { "state": "Kaduna", "cities": ["Kaduna", "Zaria", "Kafanchan"] }
+    ]
+  },
+  {
+    "country": "South Africa",
+    "states": [
+      { "state": "Gauteng", "cities": ["Johannesburg", "Pretoria", "Soweto", "Ekurhuleni", "Centurion"] },
+      { "state": "Western Cape", "cities": ["Cape Town", "Stellenbosch", "George", "Paarl"] },
+      { "state": "KwaZulu-Natal", "cities": ["Durban", "Pietermaritzburg", "Newcastle", "Richards Bay"] },
+      { "state": "Eastern Cape", "cities": ["Port Elizabeth", "East London", "Mthatha"] }
+    ]
+  }
+]
