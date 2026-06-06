@@ -1356,13 +1356,14 @@ body {
 
     .workflow-step {
         gap: 1rem;
-        margin-bottom: 2rem;
+    }
+
+    .workflow-step:not(:last-child) {
+        margin-bottom: 3rem;
     }
 
     .workflow-step:not(:last-child)::after {
-        left: 22px;
-        top: 45px;
-        bottom: -48px;
+        display: none;
     }
 
     .step-number {
