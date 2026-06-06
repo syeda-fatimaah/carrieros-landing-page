@@ -1237,6 +1237,20 @@ body {
     .nav-content {
         flex-wrap: wrap;
         gap: 1rem;
+        justify-content: space-between;
+    }
+
+    .nav-content .btn-primary {
+        font-size: 0.85rem;
+        padding: 0.75rem 1.5rem;
+    }
+
+    .logo {
+        font-size: 1.1rem;
+    }
+
+    .logo-img {
+        height: 32px;
     }
 
     .hero {
@@ -1277,19 +1291,24 @@ body {
 
     .hero-phones {
         flex-direction: column;
-        gap: 1rem;
+        gap: 1.5rem;
+        padding: 0 1rem;
     }
 
     .phone-mockup {
-        width: 100%;
-        max-width: 300px;
+        width: 100% !important;
+        max-width: 280px !important;
         transform: none !important;
+        margin: 0 auto !important;
+        border-width: 8px;
     }
 
     .phone-left,
     .phone-center,
     .phone-right {
-        width: 280px;
+        width: 100% !important;
+        max-width: 280px !important;
+        transform: none !important;
         margin: 0 auto;
     }
 
@@ -1383,10 +1402,14 @@ body {
         font-size: 0.75rem;
     }
 
+    .phone-mockup {
+        max-width: 260px !important;
+    }
+
     .phone-left,
     .phone-center,
     .phone-right {
-        width: 240px;
+        max-width: 260px !important;
     }
 
     .section-header h2 {
